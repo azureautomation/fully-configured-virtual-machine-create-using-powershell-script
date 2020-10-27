@@ -1,0 +1,20 @@
+{
+    "Author": "Hemal Ekanayake",
+    "ContentSize": 2560,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/fully-configured-virtual-machine-create-using-powershell-script/master/VM_Service_Naming_Convention.ps1",
+    "DownloadCount": 1296,
+    "Id": "Fully-configured-virtual-0b6dc056",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 200,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2018-6-29T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "JavaScript",
+    "Summary": "If you are very concern on the naming-convention of your services when you are deploying your Azure hosted VM's then you can try the below mentioned script. This is purely support for Windows Server deployment",
+    "Title": "Fully configured virtual machine create using PowerShell Script",
+    "UpdatedDate": "2018-6-29T00:00:00",
+    "Url": "https://github.com/azureautomation/fully-configured-virtual-machine-create-using-powershell-script",
+    "UserTags": "Powershell, Powershell Script, Azure Automation"
+}
